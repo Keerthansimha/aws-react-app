@@ -10,14 +10,14 @@ const quizData = [
       answer: "McAfee"
     },
     {
-      question: "Which animal is featured in the official PHP logo?",
-      options: ["Elephant", "Hippo", "Giraffe", "Lion"],
-      answer: "Elephant"
+      question: "What does AWS stand for?",
+      options: ["Amazon Web Service", "Amazon Web Services", "Advanced Web Service", "Advanced Web Services"],
+      answer: "Amazon Web Services"
     },
     {
-      question: "Who is ekascloud Operational Manager?",
-      options: ["Dushyanthan", "Vijay", "Surya", "Ram"],
-      answer: "Dushyanthan"
+      question: "Which service is used to run containerized applications in AWS?",
+      options: ["Amazon S3", "Amazon EC2", "Amazon RDS", "Amazon ECS"],
+      answer: " Amazon EC2"
     },
     {
       question: "Which programming language is known as the backbone of the World Wide Web?",
@@ -30,9 +30,9 @@ const quizData = [
       answer: "Ada Lovelace"
     },
     {
-      question: "In what year was the iPhone first introduced?",
-      options: ["2005", "2007", "2009", "2011"],
-      answer: "2007"
+      question: "What is an Amazon Machine Image (AMI)?",
+      options: [" A pre-configured template for creating virtual machines", " A service for object storage", "A data warehousing service", "A content delivery network"],
+      answer: "A pre-configured template for creating virtual machines"
     },
     {
       question: "What was Google's original name?",
@@ -50,19 +50,19 @@ const quizData = [
       answer: "Graphics Processing Unit"
     },  
     {
-      question: "What is the capital of France?",
-      options: ["New York", "London", "Paris", "Dublin"],
-      answer: "Paris"
+      question: "Which of the following is a feature of Amazon Cognito User Pools?",
+      options: ["Real-time data synchronization", "Multi-factor authentication (MFA)", "Managing EC2 instances", "Hosting a static website"],
+      answer: "Multi-factor authentication (MFA)"
     },
     {
-      question: "Who painted the Mona Lisa?",
-      options: ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
-      answer: "Leonardo da Vinci"
+      question: "What is Amazon CloudFront?",
+      options: ["A managed database service", " A content delivery network (CDN)", "A cloud storage service", "A virtual private server"],
+      answer: " A content delivery network (CDN)"
     },
     {
-      question: "What is the largest planet in our solar system?",
-      options: ["Earth", "Jupiter", "Saturn", "Mars"],
-      answer: "Jupiter"
+      question: "Which feature of CloudFront helps to reduce latency for delivering content?",
+      options: ["Route 53 integration", "Caching at edge locations", "Lambda@Edge", "AWS Shield"],
+      answer: "Caching at edge locations"
     }
   ];
   
